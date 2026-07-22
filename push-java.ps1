@@ -7,7 +7,7 @@ Write-Host "Staging all changes..."
 git add .
 
 Write-Host "Committing changes..."
-git commit -m $Message
+git commit -m "dsa problem solved"
 
 Write-Host "Pushing to GitHub..."
 git push
